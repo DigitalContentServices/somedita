@@ -5,6 +5,7 @@
 <?Pub Inc?>
 <task id="batcleaning" xml:lang="en-us"><?Pub Caret?>
 <title>Cleaning your fruit bat</title>
+
 <shortdesc>Ensure your bat stays clean and healthy.</shortdesc>
 <taskbody>
 <prereq>Ensure that you have a supply of <b>ACME Bat Shampoo</b> on
